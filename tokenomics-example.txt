@@ -1,0 +1,34 @@
+Tokenomics Example - Utility Token 2025
+
+Token Name: AlphaToken (ALPHA)
+Total Supply: 1,000,000,000 ALPHA (1 Billion - fixed, no minting)
+
+Allocation Breakdown:
+- Presale & Public Sale: 40% (400M tokens) - $0.01–$0.05 price tiers
+- Team & Advisors: 15% (150M tokens) - 24-month vesting, 6-month cliff
+- Marketing & Partnerships: 10% (100M tokens) - used for airdrops, bounties, KOL rewards
+- Liquidity & Exchanges: 15% (150M tokens) - locked on DEX at launch
+- Ecosystem Development: 10% (100M tokens) - treasury for grants & upgrades
+- Community Rewards & Staking: 10% (100M tokens) - farming & governance incentives
+- Reserve Fund: 10% (100M tokens) - multi-sig controlled, 36-month vesting
+
+Token Utility:
+- Governance voting
+- Staking rewards (15–25% APY)
+- In-app purchases & fee discounts
+- Exclusive access to platform features
+
+Tax Mechanism (optional for buy/sell):
+- 2% buy tax: 1% marketing wallet, 1% liquidity
+- 4% sell tax: 2% marketing, 1% liquidity, 1% burn
+
+Deflationary Features:
+- 1% automatic burn on transactions
+- Quarterly manual burns from marketing wallet
+
+Launch Strategy:
+- Presale target: $5M hard cap
+- Initial liquidity: 20% of raised funds
+- Listing price: 2–3x presale
+
+This is a sample template — customize based on project utility and jurisdiction (MiCA-compliant for EU).
